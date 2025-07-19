@@ -10,11 +10,7 @@ const Auth = () => {
 
   // Fixed credentials
   const validCredentials = [
-    { username: 'admin1', password: 'pass123' },
-    { username: 'admin2', password: 'pass456' },
-    { username: 'admin3', password: 'pass789' },
-    { username: 'admin4', password: 'pass101' },
-    { username: 'admin5', password: 'pass112' }
+    { username: '******', password: '*******' }
     // enter more 
   ];
 
